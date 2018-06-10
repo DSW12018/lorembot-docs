@@ -8,6 +8,6 @@
 * [NFR](untitled-1.md)
 * [Documento de Arquitetura](untitled-2.md)
 * [Plano de GCS](untitled-3.md)
-* [Untitled](untitled-4.md)
+* [Padrões de projeto utilizados](untitled-4.md)
 * [Proposta](proposta.md)
 
