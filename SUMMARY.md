@@ -9,7 +9,7 @@
   * [Sprint 1 - Planning](sprints/1-planning.md)
   * [Sprint 1 - Resultados](sprints/1-resultados.md)
   * [Sprint 2 - Planning](sprints/2-planning.md)
-  * [Sprint 2 - Resultados](sprints/sprint-2-resultados.md)
+  * [Sprint 2 - Resultados](sprints/2-resultados.md)
 * [Proposta](proposta.md)
 * [NFR](nfr.md)
 * [5W2H](untitled.md)
