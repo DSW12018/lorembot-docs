@@ -1,4 +1,0 @@
-# Sprint Planning e Resultados
-
-
-
