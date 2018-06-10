@@ -7,7 +7,7 @@
 * [Instalação](instalacao.md)
 * [NFR](untitled-1.md)
 * [Documento de Arquitetura](untitled-2.md)
-* [Untitled](untitled-3.md)
+* [Plano de GCS](untitled-3.md)
 * [Untitled](untitled-4.md)
 * [Proposta](proposta.md)
 
