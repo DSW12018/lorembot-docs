@@ -3,7 +3,7 @@
 * [Bem-Vindo](README.md)
 * [FAQ](faq.md)
 * [Instalação](instalacao.md)
-* [Usando](untitled.md)
+* [Documento de Visão](untitled.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-3.md)
