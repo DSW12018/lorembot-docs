@@ -7,9 +7,9 @@
 * [Plano de Gerência e Configuração de Software](untitled-3.md)
 * [Sprint Planning e Resultados](untitled-4.md)
 * [Proposta](proposta.md)
+* [NFR](nfr.md)
+* [5W2H](untitled.md)
 * [API](api.md)
 * [FAQ](faq.md)
 * [Cronograma](untitled-1.md)
-* [NFR](nfr.md)
-* [5W2H](untitled.md)
 
