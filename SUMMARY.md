@@ -11,5 +11,5 @@
 * [5W2H](untitled.md)
 * [API](api.md)
 * [FAQ](faq.md)
-* [Cronograma](untitled-1.md)
+* [Cronograma](cronograma.md)
 
