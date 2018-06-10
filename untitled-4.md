@@ -1,4 +1,4 @@
-# Padrões de projeto utilizados
+# Sprint Planning e Resultados
 
 
 
