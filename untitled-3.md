@@ -1,4 +1,4 @@
-# Plano de GCS
+# Plano de Gerência e Configuração de Software
 
 
 
