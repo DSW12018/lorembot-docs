@@ -10,4 +10,5 @@
 * [API](api.md)
 * [FAQ](faq.md)
 * [Cronograma](untitled-1.md)
+* [NFR](nfr.md)
 
