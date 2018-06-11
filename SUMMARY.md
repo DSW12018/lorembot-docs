@@ -16,4 +16,5 @@
 * [API](api.md)
 * [Cronograma](cronograma.md)
 * [FAQ](faq.md)
+* [Plano de Gerenciamento de Projeto](plano-de-gerenciamento-de-projeto.md)
 
