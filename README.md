@@ -32,5 +32,5 @@ O framework foi desenvolvido utilizando o padrão MVC \(Model-View-Controller\) 
 
 **Controller** - 
 
-
+View - 
 
