@@ -8,11 +8,11 @@
 | --- | --- |
 | 11/06/18 | 1.0 | Adicionando Introdução e quadro 5W2H. | Igor Gabriel |
 
-## Introdução
+## 1. Introdução
 
  A ferramenta 5W1H permite que todas as tarefas sejam descritas de forma simples e objetiva. Com esse propósito esse método foi usado para nivelar o entendimento do projeto entre todos os membros da equipe.
 
-## 5W2H
+## 2. 5W2H
 
 | **What** | **Why** | **Where** | **Who** | **When** | **How** | **How Much** |
 | --- | --- |
