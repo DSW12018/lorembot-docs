@@ -3,7 +3,7 @@
 ### Documentos / Artefatos
 
 | Atividade | Data de Início | Data de Entrega | Responsáveis |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Proposta | 28/05 | 28/05 | Equipe |
 | Documento de Visão | 09/06 | 11/06 | Thiago Ribeiro |
 | Documento de Arquitetura | 09/06 | 11/06 | Indiara Duarte, Kairon Velozo |
@@ -12,6 +12,7 @@
 | Documento Spots | 09/06 | 13/06 | Equipe |
 | 5W2H | 09/06 | 11/06 | Igor Gabriel |
 | Plano de GCS | 09/06 | 11/06 | Igor Gabriel |
+| Plano de Gerenciamento de Projeto | 09/06 | 11/06 | Igor Gabriel |
 | Apresentação | 18/06 | 18/06 | Equipe |
 
 ### Desenvolvimento
