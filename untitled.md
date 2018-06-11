@@ -14,7 +14,12 @@
 
 ## 2. 5W2H
 
-| **What** | **Why** | **Where** | **Who** | **When** | **How** | **How Much** |
-| --- | --- |
-| Um framework, em Python, para criação de chatbots, prontos para integração com as plataformas Facebook Messenger e Telegram | Para que os usuários possam criar o chatbots para Telegram. | Plataforma Web | Pessoas que querem criar chatbots | Em qualquer horário disponível. | Através do Framework LoremBot. | Custo de horas de trabalho dos membros da equipe, recursos adicionais como cursos, etc. |
+| **What** | Um framework, em Python, para criação de chatbots, prontos para integração com as plataformas Facebook Messenger e Telegram |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Why** | Para que os usuários possam criar o chatbots para Telegram. |
+| **Where** | Plataforma Web |
+| **Who** | Pessoas que querem criar chatbots |
+| **When** | Em qualquer horário disponível. |
+| **How** | Através do Framework LoremBot. |
+| **How Much** | Custo de horas de trabalho dos membros da equipe, recursos adicionais como cursos, etc. |
 
