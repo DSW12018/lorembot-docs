@@ -1,6 +1,6 @@
 # Plano de Gerência e Configuração de Software
 
-Histórico de Revisão
+**Histórico de Revisão**
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
 | --- | --- |
