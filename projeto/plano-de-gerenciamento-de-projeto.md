@@ -49,7 +49,7 @@ A escolha do KanBan pela equipe se deu, principalmente, pela versatilidade dessa
 
 ### 3.1 Cronograma
 
-O cronograma para o desenvolvimento do projeto pode ser observado [aqui](../cronograma.md).
+O cronograma para o desenvolvimento do projeto pode ser observado [aqui](cronograma.md).
 
 ## 4. Monitoramento E Controle
 
