@@ -17,9 +17,10 @@ Este documento descreve os estilos e decisões arquiteturais do framework LoremB
 ### 1.3. Acrônimos 
 
 | **Acrônimo** | **Definição** |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | API | Application Programming Interface |
 | ORM | Object-Relational Mapping |
+| NFR | Non-Functional Requirements Framework |
 
 ## 2. Representação Arquitetural 
 
