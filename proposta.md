@@ -47,6 +47,6 @@ A depender da linguagem escolhida pela equipe, poderá se utilizar as seguintes 
 | Ruby | SQLite3/Ruby | Biblioteca para gerenciamento de banco de dados SQLite. | https://github.com/sparklemotion/sqlite3-ruby |
 | Python | Python Telegram Bot | Biblioteca de integração com Telegram. | https://github.com/python-telegram-bot/python-telegram-bot |
 | Python | Python Messenger Bot | Biblioteca de integração com Facebook Messenger. | https://github.com/hartleybrody/fb-messenger-botPython |
-| Python | SQLite3/Python |  |  |
+| Python | SQLite3/Python | Biblioteca para gerenciamento de banco de dados SQLite. | https://docs.python.org/2/library/sqlite3.html |
 | Python | SQLAlchemy  |  | http://sqlalchemy-migrate.readthedocs.io/en/latest/ |
 
