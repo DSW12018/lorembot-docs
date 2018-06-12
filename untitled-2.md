@@ -63,5 +63,13 @@ Os artefatos para esta visão são:
 * [Histórias de Usuário](https://github.com/DSW12018/LoremBot#boards?repos=136768484)
 * [NFR](https://lorembot.gitbook.io/docs/~/edit/primary/nfr)
 
+### 4.2. Integrações
+
+Os artefatos de integração descrevem a decomposição do sistema, bem como as formas de comunicação entre os módulos.
+
+O documentos que será disponibilizado para essa visão é:
+
+* Diagrama de Classes
+
 
 
