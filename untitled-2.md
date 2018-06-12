@@ -34,5 +34,7 @@ O framework foi desenvolvido utilizando o padrão MVC \(Model-View-Controller\) 
 
 **Controller** - As _controllers_ promoverão a ligação entre as _models_ e o servidor do Telegram através do envio de updates. No LoremBot, as _controllers_ são responsáveis pelo processamento dos comandos enviados pelo usuário ao chatbot. Dessa forma, será possível tratar os comandos do usuário e devolver alguma resposta.
 
-## 
+### 2.2. Integração
+
+A integração do LoremBot com o servidor do Telegram
 
