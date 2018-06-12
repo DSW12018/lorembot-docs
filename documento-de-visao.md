@@ -89,9 +89,37 @@ Um bom serviço de atendimento no qual esteja isento de mal entendidos e também
 
 | **Para** | os desenvolvedores de chatbots |
 | --- | --- | --- | --- | --- | --- |
-| **que** | estão interessados em encontrar uma maneira mais fácil e adequada  |
+| **que** | estão interessados em encontrar uma maneira mais fácil e adequada de construir um chatbot |
 | **o LoremBot** | é um Framework  |
 | **que** | auxilia o desenvolvimento de chatbots |
 | **diferente de** | chatbots que já estão concluídos e disponibilizados para o cliente que tão somente o usa sem customiza-lo. |
 | **nosso produto** | oferece uma maneira de desenvolver um chatbot de maneira mais ágil e customizável |
+
+## 3. Descrição do Usuário
+
+### 3.1 Usuário
+
+| **Nome** | **Descrição** | **Responsabilidades** |
+| --- | --- |
+| Desenvolvedor | Pessoa interessada em construir um chatbot  | Utilizar as funcionalidades oferecidas pelo lorembot para o chatbot desejado |
+
+### 3.2 Principais necessidades do usuário
+
+| **Necessidade** | **Problema** | **Solução Proposta** | **Solução Atual** |
+| --- | --- |
+| O desenvolvedor tem a necessidade de construir um chatbot de acordo com as suas especificações | A complexidade de construir um chatbot do zero para satisfazer as suas especificações | Um framework no qual o desenvolvedor encontra a possibilidade de construir um chatbot com suas especificações com mais facilidade | O desenvolvedor pode construir um chatbot do zero, assim tendo um trabalho com um maior custo e tempo |
+
+### 3.3 Ambiente do usuário
+
+O lorembot é aplicado no desenvolvimento do chatbot,  no qual é usado como um pacote \(que pode ser instalado via pip ou obter o pacote apartir do repositório oficinal do [LoremBot](https://github.com/DSW12018/LoremBot) \) que deve ser importado através de algum editor de texto qualquer\(Vim, NeoVim, gedit, atom, sublime, vscore, ect . . .\). 
+
+### 3.4 Alternativas e competição
+
+#### 3.4.1 python-telegram-bot
+
+O python-telegram-bot é um pacote que possibilita a criação de bot's
+
+![](.gitbook/assets/python-telegram-bot.png)
+
+
 
