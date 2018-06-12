@@ -38,9 +38,9 @@ O framework foi desenvolvido utilizando o padrão MVC \(Model-View-Controller\) 
 
 A integração do LoremBot com o servidor do Telegram
 
-### 2.4. Banco de Dados
+### 2.3. Banco de Dados
 
-Para persistência de dados, o LoremBot faz uso do sistema gerenciador de banco de dados  SQLite. Onde a base fica guardada em um arquivo local do projeto. O SQLite possui capacidade de armazenamento apenas de dados simples **\(colocar tipos suportados\).**
+Para persistência de dados, o LoremBot faz uso do sistema gerenciador de banco de dados  SQLite, onde a base fica guardada em um arquivo local do projeto. O SQLite possui capacidade de armazenamento apenas de dados simples **\(colocar tipos suportados\).**
 
 O desenvolvedor não necessita escrever queries em formato SQL pois o framework oferece uma API de comunicação com o banco de dados utilizando a ORM SQL Alchemy. Tal ORM também permite que o desenvolvedor possa fazer alterações na estrutura do banco de dados utilizando _migrations_ que são estruturas de descrição para alteração do banco de dados. Tais alterações podem ser criar ou remover tabelas, criar ou remover colunas  de tabelas, etc.
 
