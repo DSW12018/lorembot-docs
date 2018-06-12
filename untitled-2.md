@@ -61,7 +61,7 @@ A descrição das funcionalidades do LoremBot são apresentadas na forma de hist
 Os artefatos para esta visão são:
 
 * [Histórias de Usuário](https://github.com/DSW12018/LoremBot#boards?repos=136768484)
-* [NFR](https://github.com/DSW12018/fluge/wiki/NFR)
+* [NFR](https://lorembot.gitbook.io/docs/~/edit/primary/nfr)
 
 
 
