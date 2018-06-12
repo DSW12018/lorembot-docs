@@ -25,7 +25,7 @@ Este documento descreve os estilos e decisões arquiteturais do framework LoremB
 
 ### 2.1. Implementação
 
-O framework foi desenvolvido utilizando o padrão MVC \(Model-View-Controller\) e escrito em Python. As vantagens na utilização dessa arquitetura são:
+O framework foi desenvolvido utilizando o estilo arquitetural N-Camadas, sendo que apenas duas camadas serão implementadas, e também foi escrito em Python. As vantagens na utilização desse estilo são:
 
 * Separação de responsabilidades
 * Reutilização de código
