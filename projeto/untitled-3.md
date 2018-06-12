@@ -19,16 +19,17 @@
 
 ## 3. Ferramentas
 
-| **Ferramenta** | **Versão** | **Descrição** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Git/Github | -- |  Sistema de versionamento em nuvem. |
-| Python |  | Linguagem de programação utilizada para o desenvolvimento do projeto. |
-| Gitbook | -- | O _gitbook_ é um gerador de sites com base em arquivos _markdown._ |
-| Zenhub | -- |  Ferramenta para controle e distribuição de _issues_/histórias. |
-| Atom |  |  Editor de Texto. |
-| Python Telegram Bot |  | Biblioteca de integração com Telegram. |
-| SQLite3/Python |  | Biblioteca para gerenciamento de banco de dados SQLite. |
-| SQLAlchemy Migrate |  | fornece uma maneira de lidar com mudanças no esquema do banco de dados em projetos SQLAlchemy. |
+| **Ferramenta** | **Descrição** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Git/Github |  Sistema de versionamento em nuvem. |
+| Python | Linguagem de programação utilizada para o desenvolvimento do projeto. |
+| Gitbook | O _gitbook_ é um gerador de sites com base em arquivos _markdown._ |
+| Zenhub |  Ferramenta para controle e distribuição de _issues_/histórias. |
+| Atom |  Editor de Texto. |
+| Pip | _Pip_ é um sistema de gerenciamento de pacotes usado para instalar e gerenciar pacotes de software escritos na linguagem de programação _Python_. |
+| Python Telegram Bot | Biblioteca de integração com Telegram. |
+| SQLite3/Python | Biblioteca para gerenciamento de banco de dados SQLite. |
+| SQLAlchemy Migrate | fornece uma maneira de lidar com mudanças no esquema do banco de dados em projetos SQLAlchemy. |
 
 ## 4. Políticas
 
