@@ -48,5 +48,5 @@ A depender da linguagem escolhida pela equipe, poderá se utilizar as seguintes 
 | Python | Python Telegram Bot | Biblioteca de integração com Telegram. | [https://github.com/python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) |
 | Python | Python Messenger Bot | Biblioteca de integração com Facebook Messenger. | [https://github.com/hartleybrody/fb-messenger-botPython](https://github.com/hartleybrody/fb-messenger-botPython) |
 | Python | SQLite3/Python | Biblioteca para gerenciamento de banco de dados SQLite. | [https://docs.python.org/2/library/sqlite3.html](https://docs.python.org/2/library/sqlite3.html) |
-| Python | SQLAlchemy  |  | [http://sqlalchemy-migrate.readthedocs.io/en/latest/](http://sqlalchemy-migrate.readthedocs.io/en/latest/) |
+| Python | SQLAlchemy  | Biblioteca de mapeamento objeto-relacional SQL para Python | [http://sqlalchemy-migrate.readthedocs.io/en/latest/](http://sqlalchemy-migrate.readthedocs.io/en/latest/) |
 
