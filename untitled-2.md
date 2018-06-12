@@ -1,8 +1,9 @@
 # Documento de Arquitetura
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
-| --- | --- |
+| --- | --- | --- |
 | 11/06/18 | 1.0 | Introdução, Representação Arquitetural | Indiara Duarte |
+| 12/06/18 | 1.1 | Representação Arquitetural, Artefatos, Qualidade. | Indiara Duarte, Kairon Velozo |
 
 ## 1. Introdução
 
