@@ -8,7 +8,7 @@
 
 ### 1.1. Objetivos
 
-Este documento fornece uma visão geral da arquitetura abrangente do LoremBot. Apresenta várias visualizações de arquitetura para descrever os diferentes aspectos do sistema. Destina-se a transmitir aos interessados as decisões arquiteturais significativas que foram tomadas.
+Este documento fornece uma visão geral da arquitetura abrangente do LoremBot. Apresenta várias visualizações de arquitetura diferente para descrever os diferentes aspectos do sistema. Destina-se a transmitir aos interessados as decisões arquiteturais significativas que foram tomadas.
 
 ### 1.2. Escopo
 
@@ -25,7 +25,7 @@ Este documento descreve os estilos e decisões arquiteturais do framework LoremB
 
 ### 2.1. Implementação
 
-O framework foi desenvolvido utilizando o estilo arquitetural N-Camadas, sendo que apenas duas camadas serão implementadas, e também foi escrito em Python. As vantagens na utilização desse estilo são:
+O framework foi desenvolvido utilizando o padrão MVC \(Model-View-Controller\) e escrito em Python. As vantagens na utilização dessa arquitetura são:
 
 * Separação de responsabilidades
 * Reutilização de código
@@ -37,4 +37,10 @@ O framework foi desenvolvido utilizando o estilo arquitetural N-Camadas, sendo q
 ### 2.2. Integração
 
 A integração do LoremBot com o servidor do Telegram
+
+### 2.4. Banco de Dados
+
+Para persistência de dados, o LoremBot faz uso do sistema gerenciador de banco de dados  SQLite. Onde a base fica guardada em um arquivo local do projeto. O SQLite possui capacidade de armazenamento apenas de dados simples **\(colocar tipos suportados\).**
+
+O desenvolvedor não necessita escrever queries em formato SQL pois o framework oferece uma API de comunicação com o banco de dados utilizando a ORM SQL Alchemy. Tal ORM também permite que o desenvolvedor possa fazer alterações na estrutura do banco de dados utilizando _migrations_ que são estruturas de descrição para alteração do banco de dados. Tais alterações podem ser criar ou remover tabelas, criar ou remover colunas  de tabelas, etc.
 
