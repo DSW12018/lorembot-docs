@@ -5,7 +5,7 @@ Histórico de Revisão
 | Data | Versão | Descrição | Autor\(es\) |
 | --- | --- | --- |
 | 11/06/2018 | 1.0 | Introdução | Thiago Ribeiro |
-| 12/06/2018 | 2.0 | Introdução | Thiago Ribeiro |
+| 12/06/2018 | 2.0 | Introdução, Posicionamento | Thiago Ribeiro |
 
 ## Índice
 
@@ -65,11 +65,33 @@ Este documento contém detalhes a respeito das características do sistema a ser
 
 python-telegram-bot &lt;[https://python-telegram-bot.org](https://python-telegram-bot.org/)/&gt; Acesso em: 12/06/2018
 
-Telepot &lt;https://github.com/nickoala/telepot&gt; Acesso em: 12/06/2018
+Telepot &lt;[https://github.com/nickoala/telepot](https://github.com/nickoala/telepot)&gt; Acesso em: 12/06/2018
 
 AIOGram &lt;[https://github.com/aiogram/aiogram](https://github.com/aiogram/aiogram)&gt; Acesso em: 12/06/2018
 
 twx.botapi &lt;[https://github.com/botstan/API](https://github.com/botstan/API)&gt; Acesso em: 12/06/2018
 
+## 2. Posicionamento
 
+### 2.1 Oportunidade de Negócios
+
+Um bom serviço de atendimento no qual esteja isento de mal entendidos e também eventuais erros e enganos do homem parece ser impossível.  Entretanto este é o serviço no qual os empreendedores e clientes demasiadamente desejam e é o serviço que um chatbot bem desenvolvido pode oferecer. Diante da consequência desse cenário é um serviço que também concede uma enorme economia e escalabilidade aos empreendedores. O lorembot visa contribuir para esse serviço, serviço no qual tem mudado a forma de atendimento no mundo, o lorembot busca fortalecer esse segmento de atendimento através da disponibilização de um framework que conecta desenvolvedores a um ambiente no qual o possibilita construir um chatbot com mais agilidade e praticidade. 
+
+### 2.2 Descrição do Problema
+
+| **O problema seria** | a complexidade de desenvolver um chatbot do zero para realizar um bom serviço |
+| --- | --- | --- | --- |
+| **que afeta** | as pessoas que recebem atendimento de serviços, desenvolvedores e empreendedores |
+| **cujo impacto é** | perda de tempo em um atendimento, ineficiência de um atendimento humano não qualificado, custo do desenvolvedor, custo do empreendedor. |
+| **e uma boa solução seria** | um framework no qual permite e auxilie o desenvolvimento de um chatbot que mais se enquadre com a necessidade dos stakehoulders |
+
+### 2.3 Sentença de Posição do Produto
+
+| **Para** | os desenvolvedores de chatbots |
+| --- | --- | --- | --- | --- | --- |
+| **que** | estão interessados em encontrar uma maneira mais fácil e adequada  |
+| **o LoremBot** | é um Framework  |
+| **que** | auxilia o desenvolvimento de chatbots |
+| **diferente de** | chatbots que já estão concluídos e disponibilizados para o cliente que tão somente o usa sem customiza-lo. |
+| **nosso produto** | oferece uma maneira de desenvolver um chatbot de maneira mais ágil e customizável |
 
