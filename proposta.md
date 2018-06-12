@@ -1,5 +1,9 @@
 # Proposta
 
+| Data | Versão | Descrição | Autor |
+| --- | --- |
+| 20/05/18 | 1.0 | Ideia, Implementação, Spots, Tipo de Framework, Documentação, Bibliotecas | Equipe |
+
 ## 1. Ideia
 
 Desenvolvimento de um framework escrito em Python ou Ruby para criação de chatbots, prontos para integração com as plataformas Facebook Messenger e Telegram.
