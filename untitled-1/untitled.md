@@ -14,7 +14,7 @@
 
 ## 2. 5W2H
 
-| **What** | Um framework, em Python, para criação de chatbots, prontos para integração com as plataformas Facebook Messenger e Telegram |
+| **What** | Um framework, em Python, para criação de chatbots, prontos para integração com a plataforma Telegram |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Why** | Para que os usuários possam criar o chatbots para Telegram. |
 | **Where** | Plataforma Web |
