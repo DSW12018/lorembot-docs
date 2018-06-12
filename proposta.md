@@ -54,3 +54,17 @@ A depender da linguagem escolhida pela equipe, poderá se utilizar as seguintes 
 | Python | SQLite3/Python | Biblioteca para gerenciamento de banco de dados SQLite. | [https://docs.python.org/2/library/sqlite3.html](https://docs.python.org/2/library/sqlite3.html) |
 | Python | SQLAlchemy  | Biblioteca de mapeamento objeto-relacional SQL para Python | [http://sqlalchemy-migrate.readthedocs.io/en/latest/](http://sqlalchemy-migrate.readthedocs.io/en/latest/) |
 
+## 6. Próximos Passos
+
+A equipe definiu algumas tarefas para iniciar o desenvolvimento do framework e estão relacionadas a seguir:  
+
+
+* Estudar documentação:
+  * [https://developers.facebook.com/docs/messenger-platform/](https://developers.facebook.com/docs/messenger-platform/)
+  * [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+* Definir funcionalidades do Framework
+  * Como fazer uma model apenas especificando os atributos e os tipos de cada atributo.
+  * Criar o diagrama de classes do framework
+  * Criar um site para a documentação \([https://www.gitbook.com/](https://www.gitbook.com/)\)
+  * Definir a estrutura de pastas do projeto
+
