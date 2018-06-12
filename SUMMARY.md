@@ -10,6 +10,7 @@
   * [Plano de Gerenciamento de Projeto](projeto/plano-de-gerenciamento-de-projeto.md)
   * [Cronograma](projeto/cronograma.md)
 * [Artefatos](untitled-1/README.md)
+  * [Diagrama de Classes](untitled-1/diagrama-de-classes.md)
   * [5W2H](untitled-1/untitled.md)
 * [Sprints](sprints/README.md)
   * [Sprint 1 - Planning](sprints/1-planning.md)
@@ -20,5 +21,4 @@
 * [NFR](nfr.md)
 * [API](api.md)
 * [FAQ](faq.md)
-* [Diagrama de Classes](diagrama-de-classes.md)
 
