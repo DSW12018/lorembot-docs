@@ -74,3 +74,9 @@ O documentos que será disponibilizado para essa visão é:
 
 ## 5. Qualidade
 
+Os padrões adotados no projeto seguem as convenções do Python, que são amplamente utilizados por projetos de diversos tamanhos.
+
+Os desenvolvedores se guiam pela folha de estilo [PEP8](https://www.python.org/dev/peps/pep-0008/), que é uma ferramenta para análise  de código, conforme as convenções de código Python descritas no link acima. 
+
+
+
