@@ -70,5 +70,5 @@ Os artefatos de integração descrevem a decomposição do sistema, bem como as 
 
 O documentos que será disponibilizado para essa visão é:
 
-* [Diagrama de Classes](https://github.com/DSW12018/fluge/wiki/Diagrama-de-Classes)
+* [Diagrama de Classes](https://lorembot.gitbook.io/docs/untitled-1/diagrama-de-classes)
 
