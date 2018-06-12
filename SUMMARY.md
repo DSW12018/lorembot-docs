@@ -20,4 +20,5 @@
 * [NFR](nfr.md)
 * [API](api.md)
 * [FAQ](faq.md)
+* [Diagrama de Classes](diagrama-de-classes.md)
 
