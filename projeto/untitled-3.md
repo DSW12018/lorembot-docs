@@ -20,14 +20,13 @@
 ## 3. Ferramentas
 
 | **Ferramenta** | **Versão** | **Descrição** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Git/Github | -- |  Sistema de versionamento em nuvem. |
 | Python |  | Linguagem de programação utilizada para o desenvolvimento do projeto. |
 | Gitbook | -- | O _gitbook_ é um gerador de sites com base em arquivos _markdown._ |
 | Zenhub | -- |  Ferramenta para controle e distribuição de _issues_/histórias. |
 | Atom |  |  Editor de Texto. |
 | Python Telegram Bot |  | Biblioteca de integração com Telegram. |
-| Python Messenger Bot |  | Biblioteca de integração com Facebook Messenger. |
 | SQLite3/Python |  | Biblioteca para gerenciamento de banco de dados SQLite. |
 | SQLAlchemy Migrate |  | fornece uma maneira de lidar com mudanças no esquema do banco de dados em projetos SQLAlchemy. |
 
