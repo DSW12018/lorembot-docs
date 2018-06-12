@@ -9,7 +9,7 @@
   * [Plano de Gerência e Configuração de Software](projeto/untitled-3.md)
   * [Plano de Gerenciamento de Projeto](projeto/plano-de-gerenciamento-de-projeto.md)
   * [Cronograma](projeto/cronograma.md)
-  * [Riscos](projeto/riscos.md)
+  * [Plano de Riscos](projeto/riscos.md)
 * [Artefatos](untitled-1/README.md)
   * [Diagrama de Classes](untitled-1/diagrama-de-classes.md)
   * [5W2H](untitled-1/untitled.md)
