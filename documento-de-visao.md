@@ -121,5 +121,24 @@ O python-telegram-bot é um pacote que possibilita a criação de bot's
 
 ![](.gitbook/assets/python-telegram-bot.png)
 
+## 4. Envolvidos
 
+| **NOME** | **DESCRIÇÃO** | **PRINCIPAIS RESPONSABILIDADES** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Breno Mariz | Membro da equipe de desenvolvimento | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Igor Gabriel | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Indiara Duarte | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Kairon Velozo | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Thiago Ribeiro | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Profª. Milene Serrano | Orientadora e Avaliadora do Projeto  | Acompanhar, avaliar e orientar o desenvolvimento do projeto. |
+
+## 5. Visão geral do Produto
+
+### 5.1 Perspectiva do produto
+
+ O lorembot tem como objetivo proporcionar uma maneira mais simples e prática ao desenvolvedor que busca construir chatbots no Telegram.
+
+### 5.2 Recursos do produto
+
+* Configurar Token: Possibilita que o usuário tenha permissões de utilizar o serviço com o token oferecido pelo BotFather do telegram.
 
