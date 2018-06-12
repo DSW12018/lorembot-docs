@@ -1,9 +1,5 @@
 # Proposta
 
-| Data | Versão | Descrição | Autor |
-| --- | --- |
-| 20/05/18 | 1.0 | Ideia, Implementação, Spots, Tipo de Framework, Documentação, Bibliotecas | Equipe |
-
 ## 1. Ideia
 
 Desenvolvimento de um framework escrito em Python ou Ruby para criação de chatbots, prontos para integração com as plataformas Facebook Messenger e Telegram.
@@ -40,6 +36,13 @@ Pretende-se elaborar uma documentação a nível de código, explicando o que ca
 
 ## 5. **Bibliotecas**
 
-A depender da linguagem escolhida pela equipe, poderemos utilizar as seguintes bibliotecas para a criação do framework.  
+A depender da linguagem escolhida pela equipe, poderá se utilizar as seguintes bibliotecas para a criação do framework.  
 
+
+| Linguagem | Título | Descrição | URL |
+| --- | --- | --- | --- | --- |
+| **Ruby** | telegram-bot-ruby | Biblioteca de integração com Telegram | [**https://github.com/atipugin/telegram-bot-ruby**](https://github.com/atipugin/telegram-bot-ruby) |
+| **Ruby** | **Ruby Messenger** | **Biblioteca de integração com Facebook Messenger.** | [**https://github.com/netguru/messenger-ruby**](https://github.com/netguru/messenger-ruby) |
+|  |  |  |  |
+|  |  |  |  |
 
