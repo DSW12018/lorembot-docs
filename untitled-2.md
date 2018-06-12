@@ -8,7 +8,7 @@
 
 ### 1.1. Objetivos
 
-Este documento fornece uma visão geral da arquitetura abrangente do LoremBot. Apresenta várias visualizações de arquitetura diferente para descrever os diferentes aspectos do sistema. Destina-se a transmitir aos interessados as decisões arquiteturais significativas que foram tomadas.
+Este documento fornece uma visão geral da arquitetura abrangente do LoremBot. Apresenta várias visualizações de arquitetura para descrever os diferentes aspectos do sistema. Destina-se a transmitir aos interessados as decisões arquiteturais significativas que foram tomadas.
 
 ### 1.2. Escopo
 
