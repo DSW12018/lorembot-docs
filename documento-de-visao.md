@@ -5,7 +5,7 @@ Histórico de Revisão
 | Data | Versão | Descrição | Autor\(es\) |
 | --- | --- | --- |
 | 11/06/2018 | 1.0 | Introdução | Thiago Ribeiro |
-| 12/06/2018 | 2.0 | Introdução, Posicionamento | Thiago Ribeiro |
+| 12/06/2018 | 2.0 | Introdução, Posicionamento,  Descrição do usuário, Envolvidos e Visão Geral | Thiago Ribeiro |
 
 ## Índice
 
