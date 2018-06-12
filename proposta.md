@@ -40,9 +40,13 @@ A depender da linguagem escolhida pela equipe, poderá se utilizar as seguintes 
 
 
 | Linguagem | Título | Descrição | URL |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Ruby** | telegram-bot-ruby | Biblioteca de integração com Telegram | [**https://github.com/atipugin/telegram-bot-ruby**](https://github.com/atipugin/telegram-bot-ruby) |
 | **Ruby** | **Ruby Messenger** | **Biblioteca de integração com Facebook Messenger.** | [**https://github.com/netguru/messenger-ruby**](https://github.com/netguru/messenger-ruby) |
-|  |  |  |  |
-|  |  |  |  |
+| Ruby | Rack | Biblioteca para criação de servidores web. | https://rack.github.io/ |
+| Ruby | SQLite3/Ruby | Biblioteca para gerenciamento de banco de dados SQLite. | https://github.com/sparklemotion/sqlite3-ruby |
+| Python | Python Telegram Bot | Biblioteca de integração com Telegram. | https://github.com/python-telegram-bot/python-telegram-bot |
+| Python | Python Messenger Bot | Biblioteca de integração com Facebook Messenger. | https://github.com/hartleybrody/fb-messenger-botPython |
+| SQLite3/Python | Biblioteca para gerenciamento de banco de dados SQLite. |  |  |
+| Python | SQLAlchemy  |  | http://sqlalchemy-migrate.readthedocs.io/en/latest/ |
 
