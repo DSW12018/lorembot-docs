@@ -72,3 +72,5 @@ O documentos que será disponibilizado para essa visão é:
 
 * [Diagrama de Classes](https://lorembot.gitbook.io/docs/untitled-1/diagrama-de-classes)
 
+## 5. Qualidade
+
