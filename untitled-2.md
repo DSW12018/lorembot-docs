@@ -44,7 +44,7 @@ Para persistência de dados, o LoremBot faz uso do sistema gerenciador de banco 
 
 O desenvolvedor não necessita escrever queries em formato SQL pois o framework oferece uma API de comunicação com o banco de dados utilizando a ORM SQL Alchemy. Tal ORM também permite que o desenvolvedor possa fazer alterações na estrutura do banco de dados utilizando _migrations_ que são estruturas de descrição para alteração do banco de dados. Tais alterações podem ser criar ou remover tabelas, criar ou remover colunas  de tabelas, etc.
 
-### 2.4. Restrições
+### 3. Metas e Restrições Arquiteturais
 
 A escolha arquitetural também levou a identificação de algumas restrições:
 
@@ -52,7 +52,7 @@ A escolha arquitetural também levou a identificação de algumas restrições:
 
 **Integrações**: O framework se integra apenas com a API do Telegram para criação de chatbots. 
 
-Hello World!
+## 3. Metas Arquiteturais
 
 
 
