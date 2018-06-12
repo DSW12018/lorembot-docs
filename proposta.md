@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- |
-| 20/05/18 | 1.0 | Ideia, | Equipe |
+| 20/05/18 | 1.0 | Ideia, Implementação, Spot, Tipo de Framework, Documentação, Bibliotecas | Equipe |
 
 ## 1. Ideia
 
