@@ -44,7 +44,7 @@ Para persistência de dados, o LoremBot faz uso do sistema gerenciador de banco 
 
 O desenvolvedor não necessita escrever queries em formato SQL pois o framework oferece uma API de comunicação com o banco de dados utilizando a ORM SQL Alchemy. Tal ORM também permite que o desenvolvedor possa fazer alterações na estrutura do banco de dados utilizando _migrations_ que são estruturas de descrição para alteração do banco de dados. Tais alterações podem ser criar ou remover tabelas, criar ou remover colunas  de tabelas, etc.
 
-### 3. Metas e Restrições Arquiteturais
+### 2.4. Restrições
 
 A escolha arquitetural também levou a identificação de algumas restrições:
 
@@ -52,7 +52,16 @@ A escolha arquitetural também levou a identificação de algumas restrições:
 
 **Integrações**: O framework se integra apenas com a API do Telegram para criação de chatbots. 
 
-## 3. Metas Arquiteturais
+## 3. Artefatos Arquiteturais
+
+### 4.1. Funcionalidades 
+
+A descrição das funcionalidades do LoremBot são apresentadas na forma de histórias de usuário, no repositório do projeto. Elas possuirão critérios de aceitação que descrevem de forma técnica como deverá ser desenvolvida a funcionalidade, para que, dessa forma, seja cumprido os planos de gerenciamento e qualidade do projeto.
+
+Os artefatos para esta visão são:
+
+* [Histórias de Usuário](https://github.com/DSW12018/LoremBot#boards?repos=136768484)
+* [NFR](https://github.com/DSW12018/fluge/wiki/NFR)
 
 
 
