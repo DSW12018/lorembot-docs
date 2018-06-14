@@ -3,8 +3,9 @@
 Histórico de Revisão
 
 | **Data** | **Descrição** | **Autor\(es\)** |
-| --- | --- |
+| --- | --- | --- |
 | 12/06/2018 | Introdução | Thiago Ribeiro |
+| 14/06/2018 | Categoria dos Riscos\(EAR\) | Thiago Ribeiro |
 
 ## 1. Introdução
 
@@ -31,7 +32,7 @@ Os riscos podem ser definidos em algumas categorias, segue abaixo a descrição 
 | **Infraestrutura** | Categoria de riscos que envolvem a dependência da equipe em relação a infraestrutura a ser utilizada, suas limitações, acessibilidade e a cooperação do suporte dos responsáveis. |
 | **Operação** | Categoria de risco que envolva perdas resultantes de falha, deficiência ou inadequação de processos internos, pessoas e sistemas, ou de eventos externos. |
 
-#### 2.2.1 Qualidade do Software
+#### 2.2.2 Qualidade do Software
 
 |  | **Qualidade do Software** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,4 +42,15 @@ Os riscos podem ser definidos em algumas categorias, segue abaixo a descrição 
 | **Eficiência e Eficácia** | O risco que envolve se o software faz o que se espera dele e com a  velocidade proposta. |
 | **Manutenibilidade** | O risco que envolve se o software é desenvolvido com padrões de projetos, técnicas de programação ou eventuais medidas que proporcione uma manutenibilidade com menor custo. |
 | **Portabilidade** | O risco que envolve se o software alcança a portabilidade do seu uso desejada, nos respectivos ambientes propostos.  |
+
+#### 2.2.3 Organizacionais
+
+|  | **Organizacionais** |
+| --- | --- | --- |
+| **Dependências** | Categoria que envolve se a equipe contém todas as dependências satisfeitas para a continuidade do desenvolvimento, como a sua documentação confeccionada e validada. |
+| **Recursos** | Categoria que se refere aos riscos que envolvem os recursos do projeto, recursos tecnológicos e humanos. Tais como os computadores e ambiente de trabalho para que todos possam trabalhar e a gestão de pessoas que envolve a motivação, integração e produtividade da equipe. |
+
+#### 
+
+
 
