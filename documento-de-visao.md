@@ -111,13 +111,13 @@ Um bom serviço de atendimento no qual esteja isento de mal entendidos e também
 
 ### 3.3 Ambiente do usuário
 
-O lorembot é aplicado no desenvolvimento do chatbot,  no qual é usado como um pacote \(que pode ser instalado via pip ou obter o pacote apartir do repositório oficinal do [LoremBot](https://github.com/DSW12018/LoremBot) \) que deve ser importado através de algum editor de texto qualquer\(Vim, NeoVim, gedit, atom, sublime, vscore, ect . . .\). 
+O lorembot é aplicado no desenvolvimento do chatbot,  no qual é usado como um pacote \(que pode ser instalado via pip ou obter o pacote apartir do repositório oficinal do [LoremBot](https://github.com/DSW12018/LoremBot) \) que deve ser importado através de algum editor de texto qualquer\(Vim, NeoVim, gedit, atom, sublime, vscore, etc . . .\). 
 
 ### 3.4 Alternativas e competição
 
 #### 3.4.1 python-telegram-bot
 
-O python-telegram-bot é um pacote que possibilita a criação de bot's
+O python-telegram-bot é um pacote que possibilita a criação de chatbot's.
 
 ![](.gitbook/assets/python-telegram-bot.png)
 
