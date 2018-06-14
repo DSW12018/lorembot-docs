@@ -66,5 +66,14 @@ Os riscos podem ser definidos em algumas categorias, nos quais serão adaptadas 
 | **Controle** | Categoria que se refere aos riscos que envolvem o controle e o monitoramento do projeto e sua equipe. |
 | **Comunicação** | Categoria que se refere aos riscos decorrentes da falha ou sucesso da comunicação. |
 
+## 3. Identificação dos Riscos
 
+Os riscos podem ser identificados de várias formas, porém quanto mais cedo os riscos são identificados mais tempo a equipe de gerenciamento tem para gerência-los, desde então segue abaixo o documento dos risco já identificados com suas respectivas categorias:
+
+| **ID** | **Se** | **por conta**  | **o impacto será** | **Categoria \(EAR\)** |
+| --- | --- | --- | --- | --- |
+| RN01 | Saída de algum membro da equipe | de motivos diversos | menos recursos para o desenvolvimento do projeto | Organizacionais |
+| RN02 | A equipe não tiver um bom domínio da tecnologia | da falta de experiencia da equipe | Mais esforço e custo  | Técnico |
+| RN03 | Membros cursando muitas disciplinas | de querer acelerar a conclusão do curso e motivos diversos | o tempo dedicado ao projeto | Organizacionais |
+| RN04 | A equipe não conseguir desenvolver a arquitetura | da falta de experiência da equipe  | o projeto não ser entregue como o esperado | Técnico |
 
