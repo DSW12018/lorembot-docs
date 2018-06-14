@@ -19,7 +19,7 @@ A EAR permite identificar temas recorrentes e áreas de concentração de riscos
 
 ### 2.2 Categoria dos Riscos
 
-Os riscos podem ser definidos em algumas categorias, segue abaixo a descrição de cada risco que o desenvolvimento do LoremBot está suscetível a sofrer.
+Os riscos podem ser definidos em algumas categorias, nos quais serão adaptadas para o cenário da equipe, segue abaixo a descrição de cada risco que o desenvolvimento do LoremBot está suscetível a sofrer.
 
 #### 2.2.1 Técnicos
 
@@ -50,7 +50,21 @@ Os riscos podem ser definidos em algumas categorias, segue abaixo a descrição 
 | **Dependências** | Categoria que envolve se a equipe contém todas as dependências satisfeitas para a continuidade do desenvolvimento, como a sua documentação confeccionada e validada. |
 | **Recursos** | Categoria que se refere aos riscos que envolvem os recursos do projeto, recursos tecnológicos e humanos. Tais como os computadores e ambiente de trabalho para que todos possam trabalhar e a gestão de pessoas que envolve a motivação, integração e produtividade da equipe. |
 
-#### 
+#### 2.2.4 Externos
+
+|  | **Externos** |
+| --- | --- | --- |
+| **Universidade** | Categoria que se refere aos riscos do ambiente no qual a disciplina de Arquitetura e Desenho de Software e em que os alunos/equipe estão inseridos. |
+| **Stakehoulders** | Categoria que diz respeito se os clientes estão satisfeitos com o projeto. |
+
+#### 2.2.5 Gerenciamento do Projeto
+
+|  | **Gerenciamento do Projeto** |
+| --- | --- | --- | --- | --- |
+| **Estimativa** | Categoria que se refere aos riscos que envolvem as estimativas do projeto, como cronograma, custos e esforços. |
+| **Planejamento** | Categoria que se refere aos riscos que envolvem o planejamento em geral: os recursos, riscos, sprints, etc... |
+| **Controle** | Categoria que se refere aos riscos que envolvem o controle e o monitoramento do projeto e sua equipe. |
+| **Comunicação** | Categoria que se refere aos riscos decorrentes da falha ou sucesso da comunicação. |
 
 
 
