@@ -31,3 +31,14 @@ Os riscos podem ser definidos em algumas categorias, segue abaixo a descrição 
 | **Infraestrutura** | Categoria de riscos que envolvem a dependência da equipe em relação a infraestrutura a ser utilizada, suas limitações, acessibilidade e a cooperação do suporte dos responsáveis. |
 | **Operação** | Categoria de risco que envolva perdas resultantes de falha, deficiência ou inadequação de processos internos, pessoas e sistemas, ou de eventos externos. |
 
+#### 2.2.1 Qualidade do Software
+
+|  | **Qualidade do Software** |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Funcionalidade** | Riscos que envolve a capacidade do programa. |
+| **Confiabilidade** | Categoria de risco que envolve se o software é previsível ou seja se funciona conforme o esperado ou prometido, se é consistente e se ele contém um número minimo de erros. |
+| **Usabilidade** | Categoria de risco que envolve a quantidade que o usuário se esforça para aprender\(sua curva de aprendizado\) e operar o software.  |
+| **Eficiência e Eficácia** | O risco que envolve se o software faz o que se espera dele e com a  velocidade proposta. |
+| **Manutenibilidade** | O risco que envolve se o software é desenvolvido com padrões de projetos, técnicas de programação ou eventuais medidas que proporcione uma manutenibilidade com menor custo. |
+| **Portabilidade** | O risco que envolve se o software alcança a portabilidade do seu uso desejada, nos respectivos ambientes propostos.  |
+
