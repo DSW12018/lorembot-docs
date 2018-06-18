@@ -12,3 +12,5 @@ Tendo em vista que o usuário já possua o instalador de pacotes python \(Pip\),
 pip install lorem-bot
 ```
 
+Após usa-lo, tanto o pacote lorem-bot será instalado quanto suas respectivas dependências .
+
