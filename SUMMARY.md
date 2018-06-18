@@ -13,6 +13,8 @@
   * [Engenharia de Requisitos](untitled-1/engenharia-de-requisitos.md)
   * [Diagrama de Classes](untitled-1/diagrama-de-classes.md)
   * [5W2H](untitled-1/untitled.md)
+  * [NFR](untitled-1/NFR.md)
+  * [Plano de Medição](untitled-1/plano-de-medicao.md)
 * [Sprints](sprints/README.md)
   * [Sprint 1 - Planning](sprints/1-planning.md)
   * [Sprint 1 - Resultados](sprints/1-resultados.md)
