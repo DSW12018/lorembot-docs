@@ -79,5 +79,7 @@ Os padrões adotados no projeto seguem as convenções do Python, que são ampla
 
 Os desenvolvedores se guiam pela folha de estilo [PEP8](https://www.python.org/dev/peps/pep-0008/), que é uma ferramenta para análise  de código, conforme as convenções de código Python descritas no link acima. 
 
+Além disso, o time utiliza um analisador de qualidade de código em seu repositório. O Code Climate automatiza essa revisão, tendo como referência a métrica GPA para indicar a qualidade geral do código da aplicação.  
+
 
 
