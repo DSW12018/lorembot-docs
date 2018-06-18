@@ -24,4 +24,5 @@
 * [Product Backlog](product-backlog.md)
 * [Tecnologias](tecnologias.md)
 * [Empacotamento](empacotamento.md)
+* [Diagrama de Pacotes](diagrama-de-pacotes.md)
 
