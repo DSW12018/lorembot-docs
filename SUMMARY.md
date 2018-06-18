@@ -19,7 +19,6 @@
   * [Sprint 2 - Planning](sprints/2-planning.md)
   * [Sprint 2 - Resultados](sprints/2-resultados.md)
 * [Proposta](proposta.md)
-* [NFR](nfr.md)
 * [API](api.md)
 * [FAQ](faq.md)
 * [Product Backlog](product-backlog.md)
