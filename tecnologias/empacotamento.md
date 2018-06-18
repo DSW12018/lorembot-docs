@@ -21,5 +21,7 @@ python3 setup.py sdist bdist_wheel
 twine upload dist/*
 ```
 
+## 3. Configurações utilizadas
 
+![](../.gitbook/assets/setup.png)
 
