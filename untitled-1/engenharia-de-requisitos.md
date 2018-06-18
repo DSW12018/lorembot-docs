@@ -17,11 +17,11 @@ O guia de gerenciamento de projeto PMBOK 5ª edição também define que os proj
 
 ## 2. Tipos de Requisitos
 
-Os requisitos do projeto foram mapeados para _issues_ do Git, de forma que pudessem ser classificados identificados. É possível observar as _issues_ [aqui](https://github.com/DSW12018/LoremBot/issues).
+Os requisitos do projeto foram mapeados para _issues_ do Git, de forma que pudessem ser classificados e identificados. É possível observar as _issues_ [aqui](https://github.com/DSW12018/LoremBot/issues).
 
 ### 2.1 **Histórias de Usuário**
 
-Os requisitos deste projeto será estruturado por meio de **User Stories** como os requisitos, sendo estes mapeadas para as _issues_ do Git e são organizadas no KanBan da equipe fornecido pela ferramenta: ZenHub. Para visualizar a escrita de uma issue basta acessar o [KanBan](https://github.com/DSW12018/LoremBot/issues#boards?repos=136768484) do projeto.
+Os requisitos deste projeto será estruturado por meio de **User Stories**, sendo estes mapeadas para as _issues_ do Git e são organizadas no KanBan da equipe fornecido pela ferramenta: ZenHub. Para visualizar a escrita de uma issue basta acessar o [KanBan](https://github.com/DSW12018/LoremBot/issues#boards?repos=136768484) do projeto.
 
 ### 2.2 **Requisitos de Qualidade**
 
@@ -29,7 +29,7 @@ O termo de requisitos de qualidade, também chamado de requisitos não funcionai
 
 Os requisitos de qualidade representam alguns desafios no decorrer do projeto, pois estes muitas vezes são difíceis de modelar, apresentam ambiguidade, acabam sendo ignorados durante o desenvolvimento porém tem sua função crítica para o desenvolvimento do projeto.
 
-Eles são mapeadas para as _issues_ do Git e são organizadas no _KanBan_ da equipe fornecido pela ferramenta: _ZenHub_, assim como as Histórias de Usuário. Todo requisito de qualidade possui na identificação da _issue_ o termo **TS**\(que significa _Technical Storie_\) . Para visualizar a escrita de uma _issue_ basta acessar o [KanBan](https://github.com/DSW12018/LoremBot/issues#boards?repos=136768484) do projeto.
+Eles são mapeadas para as _issues_ do Git e são organizadas no _KanBan_ da equipe fornecido pela ferramenta: _ZenHub_, assim como as Histórias de Usuário. Todo requisito de qualidade possui na identificação da _issue_ o termo **TS**\(_Technical Storie_\) . Para visualizar a escrita de uma _issue_ basta acessar o [KanBan](https://github.com/DSW12018/LoremBot/issues#boards?repos=136768484) do projeto.
 
 ## 3.  **Elicitação de Requisitos**
 
