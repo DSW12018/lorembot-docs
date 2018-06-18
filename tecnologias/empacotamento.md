@@ -25,3 +25,13 @@ twine upload dist/*
 
 ![](../.gitbook/assets/setup.png)
 
+## 4. Deploy Pypi
+
+Através de uma configuração no .travis.yml, quando a branch master receber uma nova integração será realizado o deploy no pypi e uma nova distribuição lorem-bot será realizada.
+
+### 4.1 Configurações utilizadas
+
+Arquivo .travis.yml
+
+![](../.gitbook/assets/image.png)
+
