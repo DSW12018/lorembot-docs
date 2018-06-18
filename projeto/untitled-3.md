@@ -38,23 +38,11 @@
 
 ### 4.2 Política de Commits
 
-Os _commits_ devem ser atômicos, representando uma funcionalidade ou parte dela. A mensagem deve descrever o que foi produzido, de forma sucinta. Além disso, o _commit_ deve ser iniciado com uma _hash_ acompanhado do número, que representa a _issue_ a qual esse _commit_ pertence. Assim como a mensagem para contribuir na wiki, o _commit_ deverá ser em inglês atendendo o seguinte padrão. **&lt; \#Número da** _**issue**_ **- Texto com a primeira letra da frase maiúscula, verbo no gerúndio, terminando com o ponto final. &gt;** .
-
-Exemplo:
-
-* “**\#2 -** _**Adding user model.**_”
-* "**\#17 -** _**Creating user tests.**_"
+Os _commits_ devem ser atômicos, representando uma funcionalidade ou parte dela. A mensagem deve descrever o que foi produzido, de forma sucinta. Além disso, o _commit_ deverá ser em inglês.
 
 ### 4.3 Política de _Branches_
 
-Haverá apenas um repositório com uma branch principal \(master\) e uma branch auxiliar de desenvolvimento \(devel\). Será necessária a criação de branches auxiliares para o desenvolvimento de cada história de usuário ou história técnica, essas serão ramificações da devel. Após o término da funcionalidade, os desenvolvedores responsáveis deverão mesclar o conteúdo da branchauxiliar na qual a funcionalidade foi desenvolvida com a branch auxiliar de desenvolvimento \(devel\). Essa tarefa deve ser realizada com o comando merge. A funcionalidade deverá ser integrada a master através do pull request, onde o qualidade do código será analisada.
-
-As branches auxiliares deverão ser criadas a partir do padrão a seguir: **US&lt;Número da User story&gt;-&lt;Descrição&gt; ou TS&lt;Número da Technical story&gt;-&lt;Descrição&gt;**. Onde US representa as histórias de usuário e TS histórias técnicas.
-
-Exemplos:
-
-* “**US01-Login**”
-* "**US07-FilterCompany**"
+Haverá apenas um repositório com uma branch principal \(master\) e uma branch auxiliar de desenvolvimento \(devel\). Será necessária a criação de branches auxiliares para o desenvolvimento de cada história de usuário ou história técnica, essas serão ramificações da devel. Após o término da funcionalidade, os desenvolvedores responsáveis deverão mesclar o conteúdo da _branch_ auxiliar na qual a funcionalidade foi desenvolvida com a branch auxiliar de desenvolvimento \(devel\). Essa tarefa deve ser realizada com o comando merge. A funcionalidade deverá ser integrada a master através do pull request, onde o qualidade do código será analisada.
 
 ### 4.4 Política de Aprovação do Código
 
