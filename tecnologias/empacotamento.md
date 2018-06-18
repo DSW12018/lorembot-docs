@@ -1,5 +1,9 @@
 # Empacotamento
 
+| **Data** | **Versão** | **Descrição** | **Autor** |
+| --- | --- |
+| 18/06/2018 | 1.0 | Introdução, ferramentas e configurações | Thiago Ribeiro |
+
 ## 1. Introdução
 
   
