@@ -22,7 +22,8 @@
 * [API](api.md)
 * [FAQ](faq.md)
 * [Product Backlog](product-backlog.md)
-* [Tecnologias](tecnologias.md)
-* [Empacotamento](empacotamento.md)
+* [Tecnologias](tecnologias/README.md)
+  * [Empacotamento](tecnologias/empacotamento.md)
+* [Dependências](dependencias.md)
 * [Diagrama de Pacotes](diagrama-de-pacotes.md)
 
