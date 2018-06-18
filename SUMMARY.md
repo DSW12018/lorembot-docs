@@ -24,6 +24,6 @@
 * [Product Backlog](product-backlog.md)
 * [Tecnologias](tecnologias/README.md)
   * [Empacotamento](tecnologias/empacotamento.md)
-* [Dependências](dependencias.md)
+  * [Dependências](tecnologias/dependencias.md)
 * [Diagrama de Pacotes](diagrama-de-pacotes.md)
 
