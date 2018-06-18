@@ -1,3 +1,2 @@
-# NFR Framework
+# NFR
 
-![](.gitbook/assets/NFR-Page-1.png)
